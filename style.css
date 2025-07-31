@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Hero section styles */
 .hero-section {
-  background-image: url('assets/hero.png');
+background-image: url('hero.png');
   background-size: cover;
   background-position: center;
   height: 60vh;
